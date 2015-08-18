@@ -1,0 +1,87 @@
+From uweiss at gmail.com  Wed Apr  9 17:07:39 2008
+From: uweiss at gmail.com (Ueli Weiss)
+Date: Wed, 9 Apr 2008 17:07:39 +0200
+Subject: [futil-dev] foaf index
+Message-ID: <dda746170804090807s7f86e744ocd338af680e91e92@mail.gmail.com>
+
+hi there,
+
+I am trying to solve exactly the problem you posted on your FUTIL page,
+namely: "given a SHA codification of an email, try to find the FOAF of the
+author". Do you have any suggestions on doing this? So, my questions are:
+
+- Do you know of any other work that has been done in this area?
+- Are there any FOAF (up-to-date) indexes anywhere? (I tried Swoogle, but I
+couldn't get it to work for what I intend to do, there is also another FOAF
+index online that has been abandoned)
+
+Any help or input is highly appreciated.
+
+If nothing exists, I will write a crawler + search engine specifically
+tailored for this task, using pingthesemanticweb.com and FUTIL, finding FOAF
+urls from mbox_sha1sum, openid, icq, msn, email, or any other identifier.
+
+cheers!
+ueli
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/futil-dev/attachments/20080409/ba957e4b/attachment.html>
+
+From sergio at wikier.org  Wed Apr  9 18:35:02 2008
+From: sergio at wikier.org (Sergio =?ISO-8859-1?Q?Fern=E1ndez?=)
+Date: Wed, 09 Apr 2008 18:35:02 +0200
+Subject: [futil-dev] foaf index
+In-Reply-To: <dda746170804090807s7f86e744ocd338af680e91e92@mail.gmail.com>
+References: <dda746170804090807s7f86e744ocd338af680e91e92@mail.gmail.com>
+Message-ID: <1207758902.5298.5.camel@frink.fundacionctic.org>
+
+
+> I am trying to solve exactly the problem you posted on your FUTIL
+> page, namely: "given a SHA codification of an email, try to find the
+> FOAF of the author". Do you have any suggestions on doing this? 
+
+Fisrt of all, Futil is not finshed, and probably we will neved finished,
+sorry.
+
+Check our Sindice [1] and SWSE [2], your can read some expermients with
+SWAML and that index engines [3] [4].
+
+Regards,
+
+[1] http://sindice.com/
+[2] http://www.swse.org/
+[3]
+http://www.wikier.org/blog/using-sindice-to-get-the-best-uri-for-a-person
+[4] http://www.wikier.org/blog/repeating-the-experiment-with-swse
+
+
+-- 
+__      ___ _   _           
+\ \    / (_) |_(_)___ _ _   
+ \ \/\/ /| | / / / -_) '_|  Sergio Fern?ndez
+  \_/\_/ |_|_\_\_\___|_|    http://www.wikier.org/
+
+
+From sergio at wikier.org  Wed Apr  9 19:08:07 2008
+From: sergio at wikier.org (Sergio =?ISO-8859-1?Q?Fern=E1ndez?=)
+Date: Wed, 09 Apr 2008 19:08:07 +0200
+Subject: [futil-dev] foaf index
+In-Reply-To: <1207758902.5298.5.camel@frink.fundacionctic.org>
+References: <dda746170804090807s7f86e744ocd338af680e91e92@mail.gmail.com>
+	<1207758902.5298.5.camel@frink.fundacionctic.org>
+Message-ID: <1207760887.5298.7.camel@frink.fundacionctic.org>
+
+
+On Wed, 2008-04-09 at 18:35 +0200, Sergio Fern?ndez wrote:
+
+> Check our ...
+
+Check out xD
+
+-- 
+__      ___ _   _           
+\ \    / (_) |_(_)___ _ _   
+ \ \/\/ /| | / / / -_) '_|  Sergio Fern?ndez
+  \_/\_/ |_|_\_\_\___|_|    http://www.wikier.org/
+
+

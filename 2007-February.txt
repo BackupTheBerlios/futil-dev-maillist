@@ -1,0 +1,27 @@
+From sergio at wikier.org  Thu Feb 15 14:05:10 2007
+From: sergio at wikier.org (sergio at wikier.org)
+Date: Thu, 15 Feb 2007 14:05:10 +0100 (CET)
+Subject: [futil-dev] 15 million foaf files
+Message-ID: <34250.212.89.8.169.1171544710.squirrel@webmail.wikier.org>
+
+15 million foaf files in livejournal
+From: "Sergio Fdez" <sergio at wikier.org>
+To: futil-dev at lists.berlios.de
+User-Agent: SquirrelMail/1.4.9a
+MIME-Version: 1.0
+Content-Type: text/plain;charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+
+http://blogs.sun.com/bblfish/entry/15_million_foaf_files
+
+we'll never finish...
+
+-- 
+__      ___ _   _
+\ \    / (_) |_(_)___ _ _   Sergio Fdez
+ \ \/\/ /| | / / / -_) '_|  GNU/LiNUX User: #298803
+  \_/\_/ |_|_\_\_\___|_|    Web: http://www.wikier.org/
+
+
+

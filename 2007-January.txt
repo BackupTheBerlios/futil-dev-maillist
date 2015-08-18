@@ -1,0 +1,165 @@
+From sergio at wikier.org  Wed Jan 17 23:28:35 2007
+From: sergio at wikier.org (Sergio Fdez)
+Date: Wed, 17 Jan 2007 23:28:35 +0100
+Subject: [futil-dev] [Fwd: CfP: ESWC07 Workshop on Scripting for the
+	Semantic Web]
+Message-ID: <1169072916.4303.1.camel@localhost.localdomain>
+
+
+FYI
+
+Regards,
+
+
+--------- Mensaje reenviado --------
+De: Chris Bizer <chris at bizer.de>
+Para: semantic-web at w3.org
+Cc: sfsw at semanticscripting.org
+Asunto: CfP: ESWC07 Workshop on Scripting for the Semantic Web
+Fecha: Tue, 16 Jan 2007 17:06:35 +0100
+
+-------------------------------------------------------
+CALL FOR PAPERS
+-------------------------------------------------------
+
+3rd Workshop on Scripting for the Semantic Web
+http://www.semanticscripting.org/SFSW2007/
+
+co-located with
+4th European Semantic Web Conference
+June 6, 2007, Innsbruck, Austria
+
+-------------------------------------------------------
+
+
+Scripting languages such as PHP, JavaScript, Ruby, Python, Perl, JSP and 
+ActionScript are playing a central role in current development towards flexible, 
+lightweight web applications following the AJAX and REST design paradigms. These 
+languages are the tools of a generation of web programmers who use them to 
+quickly create server and client-side web applications. Many deployed Semantic 
+Web applications from the FOAF, RSS/ATOM, blog and wiki communities, as well as 
+many innovative mashups from the Web 2.0 and Open Data movements are using 
+scripting languages and it is likely that the process of RDF-izing existing 
+database-backed websites, wikis, weblogs and CMS will largely rely on scripting 
+languages.
+
+The workshop aims to bring together developers of the RDF base infrastructure 
+for scripting languages with practitioners building applications using these 
+languages. Last years Scripting for the Semantic Web workshop in Budva, 
+Montenegro focused on giving an overview about the support for Semantic Web 
+technologies within scripting languages. The special focus of this year's 
+workshop is the role of scripting languages in the process of populating the Web 
+with linked RDF data as well as to showcase innovative scripting applications 
+that consume RDF data from the Web. The second focus of the workshop is to show 
+how Web 2.0 applications and mashups can benefit from Semantic Web technologies.
+
+The workshop will include a scripting challenge (conducted for the 2nd time) 
+which will award a prize to the most innovative scripting application.
+
+
+TOPICS OF INTEREST
+
+Topics of interest include, but are not limited to:
+
+Infrastructure
+
+* Semantic Web frameworks and APIs for scripting languages
+* RDF repositories and query languages implemented using scripting languages
+* Reasoning engines implemented using scripting languages
+* Semantic Web publishing and data syndication frameworks
+* Approaches to crawling Web data and querying distributed data on the Web
+
+Applications
+
+* Semantic Web applications using scripting languages
+* Approaches to RDF-izing existing applications, such as RDFa and GRDDL
+* Mashups that provide RDF views on Web 2.0 data sources such as Google,
+  Yahoo, Amazon or eBay
+* Wikis, weblogs and data syndication systems using RDF
+* RDF/OWL editors and authoring environments
+* Scripting applications for visualizing Web data.
+* Semantic Web Mining and Social Network Analysis
+* Mashups that demonstrate the novel capabilities of Semantic Web technologies
+
+Conceptual
+
+* Rapid development techniques for the Semantic Web
+* Employment of scripting language characteristics for Semantic Web development
+* Scalability and benchmarks of Semantic Web scripting applications
+
+Scripting Challenge
+
+The workshop includes a scripting challenge which will award a prize (an Apple 
+iPod Video or alternatively  Euro 200 cash) to the most innovative small 
+scripting application or mashup. The application must be implemented using a 
+scripting language and Semantic Web technologies. It should access, visualize or 
+combine information from different sources in new unforeseen ways. Authors of 
+Scripting Challenge submissions are not required to attend the workshop 
+personally. Please refer to Tom Heath for further information about the 
+Scripting Challenge.
+
+
+IMPORTANT DATES
+
+Submission deadline: March 30, 2007
+Notication of acceptance: April 28, 2007
+Camera-ready paper submission: May 7, 2007
+Workshop date: June 6, 2007
+
+
+WORKSHOP CHAIRS
+
+* Chris Bizer, Freie Universit?t Berlin, Germany
+* S?ren Auer, Universit?t Leipzig, Germany and University of Pennsylvania, USA
+* Gunnar Aastrand Grimnes, DFKI Knowledge Management Lab, Germany
+* Tom Heath, Knowledge Media Institute (KMi), United Kingdom
+
+
+SUBMISSIONS
+
+We seek three kinds of submissions:
+* Full papers - should not exceed ten pages in length.
+* Short papers - are expected up to 5 pages.
+* Scripting Challenge Submissions - 2 page description of the
+  application, ideally accompanied with the source code and a link to an
+  online demo.
+
+PROGRAM COMMITTEE
+
+* David Aum?ller, Universit?t Leipzig, Germany
+* Danny Ayers, Independent Author, Italy
+* Dave Beckett, Yahoo!, USA
+* Uldis Bojars, DERI, Ireland
+* Dan Brickley, Semantic Web Vapourware, UK
+* Richard Cyganiak, Freie Universit?t Berlin, Germany
+* Stefan Decker, DERI, Ireland
+* Edd Dumbill, Useful Information Company, UK
+* Frank Fuchs-Kittowski, Frauenhofer Gesellschaft - ISST, Germany
+* Daniel Krech, University of Maryland, USA
+* Peter Mika, Vrije Universiteit Amsterdam, The Netherlands
+* Libby Miller, @Semantics, UK
+* Benjamin Nowack, appmosphere web applications, Germany
+* Alberto Reggiori, @Semantics, UK
+* Sebastian Schaffert, salzburg research, Austria
+* Vlad Tanasescu, KMi, The Open University, UK
+* Denny Vrandecic, AIFB, Universit?t Karlsruhe, Germany
+
+
+FURTHER INFORMATION
+
+Updated information about the workshop is found on the workshop website
+http://www.semanticscripting.org/SFSW2007/
+
+For further information, please send email to sfsw at semanticscripting.org
+
+
+
+
+-- 
+__      ___ _   _           
+\ \    / (_) |_(_)___ _ _   Sergio Fdez
+ \ \/\/ /| | / / / -_) '_|  GNU/LiNUX User: #298803
+  \_/\_/ |_|_\_\_\___|_|    Web: http://www.wikier.org/
+
+
+
